@@ -31,9 +31,11 @@ module.exports = {
 			WeatherForm: __dirname + '/app/components/WeatherForm.jsx',
 			WeatherMessage: __dirname + '/app/components/WeatherMessage.jsx',
 			About: __dirname + '/app/components/About.jsx',
+			Login: __dirname + '/app/components/Login.jsx',
 			Examples: __dirname + '/app/components/Examples.jsx',
 			openWeatherMap: __dirname + '/app/api/openWeatherMap.jsx',
 			ErrorModal: __dirname + '/app/components/ErrorModal.jsx',
+
 			ApplicationStyles: __dirname + '/app/styles/app.scss'
 		},
 		extensions: ['.js','.jsx']
